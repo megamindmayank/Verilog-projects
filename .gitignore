@@ -1,0 +1,89 @@
+# ========================
+# Verilog Project .gitignore
+# ========================
+
+# General simulation outputs
+*.vcd
+*.vpd
+*.lxt
+*.wlf
+*.saif
+*.vvp
+*.out
+*.log
+*.dump
+*.fsdb
+*.asdb
+*.txt~
+
+# Xilinx Vivado/ISE files
+*.bit
+*.bin
+*.elf
+*.mcs
+*.jou
+*.log
+*.str
+*.opt
+*.xml
+*.html
+*.xpr
+*.xpr.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.srcs/
+*.webtalk/
+*.vivado/
+*.xilinx/
+*.Xil/
+*.cache/
+*.temp/
+*.backup/
+
+# Quartus II
+*.rpt
+*.summary
+*.smsg
+*.cmp
+*.pof
+*.sof
+*.cdf
+*.jdi
+*.qsf
+*.sdc
+*.qpf
+*.db
+
+# ModelSim and other sim tools
+*.ini
+*.mti
+*.dat
+transcript
+modelsim.ini
+*.do
+*.wlf
+*.tcl
+
+# IDE-specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Python (if you use helper scripts)
+*.pyc
+__pycache__/
+
+# Temporary/backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.old
+
+# OS-generated
+.DS_Store
+Thumbs.db
+desktop.ini

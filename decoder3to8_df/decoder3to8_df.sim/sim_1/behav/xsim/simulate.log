@@ -1,6 +1,0 @@
-Time resolution is 1 ps
-Values of a = 0, b = 0, c = Values of a = 0, b = 0, c =  | 00000010
-Values of a = 0, b = 1, c = Values of a = 0, b = 1, c =  | 00001000
-Values of a = 1, b = 0, c = Values of a = 1, b = 0, c =  | 00100000
-Values of a = 1, b = 1, c = Values of a = 1, b = 1, c =  | 10000000
-$finish called at time : 100 ns : File "C:/Users/DK2012TX/verilogprojs/decoder3to8_df/decoder3to8_df.srcs/sim_1/new/tb_dec.v" Line 37
