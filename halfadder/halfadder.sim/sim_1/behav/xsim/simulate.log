@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	 a b | sum carry
+                   0	 0 0 |  0    0
+               10000	 0 1 |  1    0
+               20000	 1 0 |  1    0
+               30000	 1 1 |  0    1
+$finish called at time : 40 ns : File "C:/Users/DK2012TX/verilogprojs/halfadder/halfadder.srcs/sources_1/new/tb_ha.v" Line 47

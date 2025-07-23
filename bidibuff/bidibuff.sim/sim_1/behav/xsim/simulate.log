@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a = 0, b = 0, ctrl = 0
+a = 0, b = 0, ctrl = 1
+a = 1, b = 1, ctrl = 0
+a = 0, b = 0, ctrl = 1
+a = 0, b = 0, ctrl = 0
+a = 1, b = 1, ctrl = 1
+a = 1, b = 1, ctrl = 0
+a = 1, b = 1, ctrl = 1
+$finish called at time : 100 ns : File "C:/Users/DK2012TX/verilogprojs/bidibuff/bidibuff.srcs/sim_1/new/tb_bidibuf.v" Line 38

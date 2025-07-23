@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sim_1/new/tb_mux.v,1753028175,verilog,,,,tb_mux,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sources_1/new/dec.v,1753028762,verilog,,C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sources_1/new/mux4to1.v,,dec,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sources_1/new/mux4to1.v,1753031223,verilog,,C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sources_1/new/trimux.v,,mux4to1,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sources_1/new/trimux.v,1753028557,verilog,,C:/Users/DK2012TX/verilogprojs/mux4to1udectristatebuf/mux4to1udectristatebuf.srcs/sim_1/new/tb_mux.v,,trimux,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
